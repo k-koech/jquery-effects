@@ -1,0 +1,37 @@
+body
+{
+    background-color: blanchedalmond;
+}
+img{
+    width:100%;
+}
+
+.col1
+{
+    display: none;
+}
+.col3
+{
+    display: none;
+}
+
+.headerP
+{
+    display: none;
+}
+
+
+.green-background {
+    background-color: green;
+  }
+
+  .yellow-background {
+    background-color: yellow;
+  }
+
+  .red-background {
+    background-color: red;
+  }
+  .dark {
+    background-color: rgb(7, 1, 1);
+}
